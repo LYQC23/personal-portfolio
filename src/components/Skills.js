@@ -40,35 +40,44 @@ export const Skills = () => {
                             <div className="item">
                                 <img src={meter1} alt="Image" />
                                 <h5>Javascript</h5>
+                                <h5>熟练</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter1} alt="Image" />
+                                <h5>html</h5>
+                                <h5>熟练</h5>
                             </div>
                             <div className="item">
                                 <img src={meter2} alt="Image" />
-                                <h5>html</h5>
+                                <h5>css</h5>
+                                <h5>熟练</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter2} alt="Image" />
+                                <h5>c++</h5>
+                                <h5>熟练</h5>
                             </div>
                             <div className="item">
                                 <img src={meter3} alt="Image" />
-                                <h5>css</h5>
-                            </div>
-                            <div className="item">
-                                <img src={meter1} alt="Image" />
-                                <h5>c++</h5>
-                            </div>
-                            <div className="item">
-                                <img src={meter1} alt="Image" />
                                 <h5>java</h5>
+                                <h5>良好</h5>
                             </div>
                             <div className="item">
-                                <img src={meter1} alt="Image" />
+                                <img src={meter3} alt="Image" />
                                 <h5>React</h5>
+                                <h5>良好</h5>
                             </div>
+                            <div className="item">
+                                <img src={meter2} alt="Image" />
+                                <h5>Vue</h5>
+                                <h5>熟练</h5>
+                            </div>     
                             <div className="item">
                                 <img src={meter1} alt="Image" />
                                 <h5>Node</h5>
+                                <h5>良好</h5>
                             </div>
-                            <div className="item">
-                                <img src={meter1} alt="Image" />
-                                <h5>Vue</h5>
-                            </div>                   
+                                         
                         </Carousel>
                     </div>
                 </div>
